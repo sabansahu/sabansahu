@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on linux
 - 📫 Reach me  https://github.com/sabansahu/sabansahu/edit/main/README.md
-- currently i am working for NTT
+- i am working for NTT
 
 <!---
 sabansahu/sabansahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
